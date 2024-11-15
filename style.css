@@ -1,0 +1,23 @@
+body {
+	background-color:mistyrose;
+	color:white;
+}
+
+.container {
+	background-color: mistyrose;
+}
+img {
+	width:80px;
+}
+.indie-flower-regular {
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+th {
+	font-size:16px;
+	font-family:"Indie Flower";
+	font-weight: 400;
+	font-style: normal;
+}
+
